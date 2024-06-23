@@ -1,8 +1,9 @@
 <h2>닭 많이 사먹으려고 꾸역꾸역 하는 중</h2>
 <h3>ALLRIGHT24🔥</h3>
 <hr>
-<h4;>Everything’s gonna be allright⭐</h4>
+
 <img width=200 height=300 align="left" src=https://file.sportsseoul.com/news/cms/2023/08/22/news-p.v1.20230822.dc6124ffb61e45569ed5c23510ae6c27_P1.jpg>
+<h4 align="center">Everything’s gonna be allright⭐</h4>
 
 <!--
 **ohhyeonkwon/ohhyeonkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
