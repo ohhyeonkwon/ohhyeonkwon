@@ -2,7 +2,7 @@
 <h3>ALLRIGHT24🔥</h3>
 <hr>
 
-<img width=320 height=400 align="left" src=https://file.sportsseoul.com/news/cms/2023/08/22/news-p.v1.20230822.dc6124ffb61e45569ed5c23510ae6c27_P1.jpg>
+<!--<img width=320 height=400 align="left" src=https://file.sportsseoul.com/news/cms/2023/08/22/news-p.v1.20230822.dc6124ffb61e45569ed5c23510ae6c27_P1.jpg>-->
 <h4 align="center">Everything’s gonna be allright⭐</h4>
 
 <!--
